@@ -16,15 +16,14 @@ interface ProfileData {
  */
 const profileData: ProfileData = {
   typewriterName: [
-    "Hey guys, I'm Will.",
-    "I love to poo.",
-    "William De Rocco :)",
+    "Hello there, I'm Richie.",
+    "I love learning.",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
+  graduatingClass: 2027,
+  majorMinor: "B.S.B.A. in Finance and Real Estate, Minor in Psychology and International Relations",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  currentPosition: "BU Finance Committee Analyst"
 };
 
 /**
