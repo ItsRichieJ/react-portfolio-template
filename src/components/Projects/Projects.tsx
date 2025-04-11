@@ -10,17 +10,17 @@ const projects: ProjectProps[] = [
   {
     websiteHref: "https://stava.io/",
     imgSrc: "/images/projects/stavapic.jpeg",
-    title: "Terrell Lane Volunteering",
+    title: "Stava.io",
     description:
-      "Grub Gallery is a dynamic web application built using the MERN stack, integrating Google OAuth, Spoonacular API, and Google Calendar API. This project allows users to discover and personalize dishes and recipes effortlessly.",
+      "Stava.io is an AI-powered developer onboarding tool that provides real-time, context-aware feedback on pull requests by learning a company’s entire codebase and internal conventions. Built to reduce the 30–100 day ramp-up period for new developers, Stava helps teams accelerate onboarding, improve code quality, and shorten feedback loops—without replacing human reviewers.",
   },
   // Project 2
   {
     websiteHref: "https://www.bu.edu/questrom/blog/asb-travels-to-terrell-lane-middle-school/",
-    imgSrc: "/images/projects/project2.jpeg",
-    title: "ZipSurf",
+    imgSrc: "/images/projects/TLMural.jpeg",
+    title: "Terrell Lane Volunteering",
     description:
-      "ZipSurf is a React based web application designed to enabling users to create, save, delete, and export shortened URLs.",
+      "I was in Lousiburg, North Carolina during Spring break helping teach and facilitate at Terrell Lane Middle School.",
   },
 ];
 
