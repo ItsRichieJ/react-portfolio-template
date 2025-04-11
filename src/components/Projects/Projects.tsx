@@ -8,9 +8,9 @@ import "./Projects.css";
 const projects: ProjectProps[] = [
   // Project 1
   {
-    websiteHref: "https://github.com/wderocco8/Grub-Gallery",
+    websiteHref: "https://www.bu.edu/questrom/blog/asb-travels-to-terrell-lane-middle-school/",
     imgSrc: "/images/projects/project1.jpeg",
-    title: "Grub Gallery",
+    title: "Terrell Lane Volunteering",
     description:
       "Grub Gallery is a dynamic web application built using the MERN stack, integrating Google OAuth, Spoonacular API, and Google Calendar API. This project allows users to discover and personalize dishes and recipes effortlessly.",
   },
