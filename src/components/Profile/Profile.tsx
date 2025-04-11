@@ -21,7 +21,7 @@ const profileData: ProfileData = {
   ],
   graduatingClass: 2027,
   majorMinor: "B.S.B.A. in Finance and Real Estate, Minor in Psychology and International Relations",
-  websiteHref: "https://github.com/wderocco8",
+  websiteHref: "https://github.com/wderocco8 keeping",
   imgSrc: "/images/profile/profile.jpeg",
   currentPosition: "BU Finance Committee Analyst"
 };
