@@ -15,7 +15,9 @@ const activities: ActivityProps[] = [
       <>
         <p>
           I love diving, my mom loves me spearfishing. 
-          Diving under the waves have shown me a whole new world, a world full of seafood: tuna, bass, lobster, scallops, mussels, urchins...
+        </p>
+        <p>
+          Diving under the waves have shown me a <strong>whole new world</strong>whole new world, a world full of seafood: tuna, bass, lobster, scallops, mussels, urchins...
           which my mother would dig out like treasure from my 200 qt. cooler.
         </p>
         <p>
@@ -39,9 +41,10 @@ const activities: ActivityProps[] = [
       <>
         <p>
           Pet sitting was first a method to fund my 9 year-old self's want for Star Wars Legos. 
-          I also could not stand leaving my own pet at home, all alone, in the dark. So I sought out to provide a solution for pets that have traveling parents.
+          I also could not stand leaving my own pet at home, all alone, in the dark. So I sought out to provide a <strong>solution</strong> for pets that have traveling parents.
+        <p>
           Throughout the years, I've taken care of over 50 breeds of dogs and met wonderful parents.
-          The corgi in my arms, I've known "Pillow" since she was 8 months old, she's now nine and has spent over half her life at my house; we are great friends with her owners.
+          The corgi in my arms, I've known "Pillow" since she was 8 months old, she's now nine and has spent over half her life at my house; we are great friends with her owners.</p>
         </p>
         <p>
           In the end, I was able to buy my Star Wars Legos, and even my first car!
@@ -63,17 +66,16 @@ const activities: ActivityProps[] = [
     description: (
       <>
         <p>
-          I joined PCT (a professional business fraternity) my very first
-          semesert at BU. It was probably one of the most impactful decsions
-          I've made in terms of the <strong>friends</strong> made,{" "}
-          <strong>skills</strong> acquired, and abundance of unique experiences.
-          (Feel free to check out our website WhyPhi 😜)
+          Sports have been a key part of my life: golf, tennis, swimming, Brazillian Jiu-Jitsu, and anything I have yet to try.
+        </p>
+        <p>
+          Keeping in shape and working out is a huge part of my life too, I love seeing the pump indicating what I'd look like in the near future, and reminding me of my goals.
         </p>
       </>
     ),
     quicklinks: [
-      { href: "https://bupct.com/", name: "BUPCT" },
-      { href: "https://github.com/whyphi", name: "WhyPhi" },
+      { href: "https://grindergym.com/", name: "Grinder Gym" },
+      { href: "https://www.servitehs.org/athletics/sports-teams/golf", name: "Golf" },
     ],
   },
   // Activity 4
@@ -84,20 +86,15 @@ const activities: ActivityProps[] = [
     description: (
       <>
         <p>
-          Growing up, I always had the opportunity to watch my mom cook, and
-          even help out in the kitchen. Once my parents started working more, I
-          ended up taking more responsibility for cooking meals for the whole
-          family.
+          Cooking has been instilled in me since I was 4, starting with French toast and now ribeyes and dumplings.
         </p>
         <p>
-          This slowly grew into a passion, and now is something that I spend a
-          lot of free time doing for fun!
+          It's been a passion from my mother helped me develope, I thank her by cooking her dinner.
         </p>
       </>
     ),
     quicklinks: [
-      { href: "https://www.babi.sh/", name: "Babish Culinary Universe" },
-      { href: "https://cooking.nytimes.com/", name: "NYT Cooking" },
+      { href: "https://www.youtube.com/@thatdudecancook", name: "ThatDudeCanCook" },
     ],
   },
 ];
