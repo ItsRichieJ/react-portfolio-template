@@ -36,9 +36,9 @@ const activities: ActivityProps[] = [
   },
   // Activity 2
   {
-    imgSrc: "/images/activities/activity2.jpeg",
+    imgSrc: "/images/activities/PSPCT.jpeg",
     imgAlt: "Rock climbing at FitRec.",
-    title: "Rock Climbings",
+    title: "Pet Sitting",
     description: (
       <>
         <p>
@@ -60,9 +60,9 @@ const activities: ActivityProps[] = [
   },
   // Activity 3
   {
-    imgSrc: "/images/activities/activity3.jpeg",
+    imgSrc: "/images/activities/GYMPCT.jpeg",
     imgAlt: "Tabling with PCT (Phi Chi Theta).",
-    title: "BU Phi Chi Theta (PCT)",
+    title: "Sports",
     description: (
       <>
         <p>
@@ -81,7 +81,7 @@ const activities: ActivityProps[] = [
   },
   // Activity 4
   {
-    imgSrc: "/images/activities/activity4.jpeg",
+    imgSrc: "/images/activities/BBGPCT.jpeg",
     imgAlt: "Cooking with my mom.",
     title: "Cooking",
     description: (
