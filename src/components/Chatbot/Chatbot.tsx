@@ -11,19 +11,70 @@ import {
 
 // TODO: replace this with your actual experiences (you can write MUCH more than I did...)
 const USER_BACKGROUND = `
-My Name is William De Rocco.
+My Name is Richie Jiang.
 
-I am a senior at Boston University studying Computer Science.
-I worked at Rhapsody Health as a Full Stack Software Engineer Intern in the Summer of 2024, 
-where I used Typescript-React, Jest, Dotnet, Docker, Kubernetes... etc.
-I'm planning to start working at Fidelity as a LEAP Software Engineer in May of 2025.
+I am a Sophomore at Boston University majoring in finannce and real estate, and minoring in psychology and international relations.
+The following is my resume and all about me:
 
-I specialize in React, TypeScript, and Node.js development.
-I've built and contributed to many web applications including an attendence and application management
- system called WhyPhi and, most recently, an open-source Raycast extension called Huggingcast.
+Richie Jiang
+(646) 436-8959 | richiej@bu.edu | www.linkedin.com/in/richiej2004 | Orange County, CA
 
-I enjoy rock climbing, cooking, running, and yes... coding in my free time.
-I speak English fluently and am intermediate in Italian.
+EDUCATION
+Boston University Questrom School of Business	Boston, MA
+Bachelor of Science in Business Administration	Expected May 2027
+Double Major: Finance & Real Estate | Minors: Psychology & International Relations
+Cumulative GPA: 3.9
+Relevant Coursework: Microeconomics, Macroeconomics, Statistics for Business and Econ, International Economics
+Certifications: Bloomberg Certifications (Finance, Markets, ESG), Microsoft Excel Certification (In Progress), REFM Financial Modeling Certification in Excel for Real Estate
+
+EXPERIENCE
+Project Destined Real Estate Private Equity Internship	Boston, MA (Hybrid)
+Investment Analyst	March 2025 – Present
+
+Stava.io	Boston, MA
+Co-Founder	January 2025 – Present
+Spearheaded outreach to 20+ companies, securing pilot interest and shaping go-to-market strategy for 1,000+ user target
+Led customer outreach, business strategy, and go-to-market efforts to drive early enterprise adoption and user feedback
+
+Boston University Finance Committee	Boston, MA
+Data and Financial Analyst	September 2024 – Present
+Analyzed $2MM+ distributions for 450+ BU student organizations for the 25-26 school year.
+Led budget negotiations, achieving unanimous funding decisions, and presented outcomes to the BU Dean of Students.
+
+Project Destined Commercial Real Estate Internship	Boston, MA (Hybrid)
+Analyst - Team Lument X Orix	September 2024 – November 2024
+Completed 40+ hours of training in real estate analysis and decision-making with mentor guidance.
+Conducted property valuations, deal analysis, and pitched findings to Project Destined CEO and Lument X Orix
+
+PADI, Inc.	San Diego, CA
+Open Water Scuba Instructor, CPR/EFR Instructor	October 2022 – Present
+Achieved advanced and instructional diving credentials, taught 50+ students ages 5-70, from beginner to advanced skill
+Organized dive teams in pools and open sea, reaching depths of 140 feet; worked as first mate and deckhand
+
+Jam Chat	         San Diego, CA
+Head of Marketing and Talent Acquisition for Southern California	         January 2024 – September 2024
+Secured grassroots investments, contributed to app design, and developed a foundational marketing campaign.
+Converted schools and organizations to Jam Chat through pitches, boosting usage from 4,000 to 20,000+ in 4 months
+
+Columbia University, Psychology Department	New York, NY
+Psychology Experiment Researcher and Participant	August 2020 – August 2022
+Participated as a subject in a study on the attentiveness and mental health of high school students under pressure
+Conducted research, data analysis, experiments, authored and translated reports for Columbia’s Psych Department
+
+LEADERSHIP EXPERIENCE
+Boys State of California by American Legion	Sacramento, CA
+Lieutenant Governor & Counselor	  June 2022 – Present
+Delivered speeches and debates on policy to 1,000 top California high school students and crafted mock state gov. policy
+Guided 100+ students as a counselor, managed departments and state executive, legislative, and judicial affairs
+
+
+AWARDS & INTERESTS
+Awards: 2x World Record Holder - Youngest Scuba and CPR/EFR Instructor
+President’s Volunteer Service Award (3x Gold Distinction) - 750+ service hours	
+Organizations: Student Government, BU Finance & Investments Club, Mock Mediation, Club Tennis, PCT Fraternity
+Languages: Chinese (Native), English (Native), Spanish (Conversational)
+Other Interests: Spear Fishing, Shakespeare, BJJ, Aviation, Golf, Tennis, Cooking, International Investing, Piano
+
 `;
 
 /**

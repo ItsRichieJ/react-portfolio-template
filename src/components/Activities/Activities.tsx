@@ -17,7 +17,7 @@ const activities: ActivityProps[] = [
           I love diving, my mom loves me spearfishing. 
         </p>
         <p>
-          Diving under the waves have shown me a <strong>whole new world</strong>whole new world, a world full of seafood: tuna, bass, lobster, scallops, mussels, urchins...
+          Diving under the waves have shown me a <strong>whole new world</strong> whole new world, a world full of seafood: tuna, bass, lobster, scallops, mussels, urchins...
           which my mother would dig out like treasure from my 200 qt. cooler.
         </p>
         <p>
