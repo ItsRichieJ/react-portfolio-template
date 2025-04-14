@@ -25,13 +25,9 @@ const activities: ActivityProps[] = [
       </>
     ),
     quicklinks: [
-      { href: "https://github.com/whyphi", name: "WhyPhi" },
-      { href: "https://grub-gallery.vercel.app/", name: "GrubGallery" },
-      { href: "https://github.com/wderocco8/ZipSurf", name: "ZipSurf" },
-      {
-        href: "https://github.com/alexjmiller5/BU-GCalSync",
-        name: "BU-GCalSync",
-      },
+      { href: "https://www.padi.com/", name: "PADI" },
+      { href: "https://oceanonescuba.com/", name: "Dive Shop" },
+      { href: "https://www.guinnessworldrecords.com/", name: "Guinness World Record" },
     ],
   },
   // Activity 2
@@ -81,7 +77,7 @@ const activities: ActivityProps[] = [
   },
   // Activity 4
   {
-    imgSrc: "/images/activities/BBGPCT.jpeg",
+    imgSrc: "/images/activities/BBQPCT.jpeg",
     imgAlt: "Cooking with my mom.",
     title: "Cooking",
     description: (
