@@ -38,12 +38,13 @@ const activities: ActivityProps[] = [
     description: (
       <>
         <p>
-          I started rock climbing about 2 years ago, and since then, it has been
-          nothing short of amazing (maybe even <em>addicting</em>).
+          Pet sitting was first a method to fund my 9 year-old self's want for Star Wars Legos. 
+          I also could not stand leaving my own pet at home, all alone, in the dark. So I sought out to provide a solution for pets that have traveling parents.
+          Throughout the years, I've taken care of over 50 breeds of dogs and met wonderful parents.
+          The corgi in my arms, I've known "Pillow" since she was 8 months old, she's now nine and has spent over half her life at my house; we are great friends with her owners.
         </p>
         <p>
-          I love the challenge of finding the optimal "beta" through a problem,
-          and pushing your body to it's limit.
+          In the end, I was able to buy my Star Wars Legos, and even my first car!
         </p>
       </>
     ),
