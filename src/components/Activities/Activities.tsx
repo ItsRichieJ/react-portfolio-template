@@ -8,9 +8,9 @@ import "./Activities.css";
 const activities: ActivityProps[] = [
   // Activity 1
   {
-    imgSrc: "/images/activities/activity1.jpeg",
+    imgSrc: "/images/activities/ScubadivingPCT.jpeg",
     imgAlt: "Coding with David Malin at HackHarvard.",
-    title: "Coding",
+    title: "Scuba Diving",
     description: (
       <>
         <p>
