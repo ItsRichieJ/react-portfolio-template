@@ -14,20 +14,20 @@ const activities: ActivityProps[] = [
     description: (
       <>
         <p>
-          Even though we have to code constantly for class, this is something
-          that I genuinely enjoy learning in my free time.
+          I love diving, my mom loves me spearfishing. 
+          Diving under the waves have shown me a whole new world, a world full of seafood: tuna, bass, lobster, scallops, mussels, urchins...
+          which my mother would dig out like treasure from my 200 qt. cooler.
         </p>
         <p>
-          Especially for when it comes to <strong>web-development</strong>,
-          where the creative opportunities are literally endless, I find myself
-          spending hours going down rabbit holes of formative exploration.
+          Scuba diving has challenged and shown me with so many different perspectives of the world. 
+          From being a student, to teaching classes, and saving distressed divers, I've learned and grown in profound ways.
         </p>
       </>
     ),
     quicklinks: [
       { href: "https://www.padi.com/", name: "PADI" },
       { href: "https://oceanonescuba.com/", name: "Dive Shop" },
-      { href: "https://www.guinnessworldrecords.com/", name: "Guinness World Record" },
+      { href: "https://www.guinnessworldrecords.com/", name: "Guinness" },
     ],
   },
   // Activity 2
