@@ -20,7 +20,7 @@ const projects: ProjectProps[] = [
     imgSrc: "/images/projects/TLMural.jpeg",
     title: "Terrell Lane Volunteering",
     description:
-      "I was in Lousiburg, North Carolina during Spring break helping teach and facilitate at Terrell Lane Middle School.",
+      "I was in Lousiburg, North Carolina during Spring break helping teach and facilitate at Terrell Lane Middle School. There were wonderful kids and caring facualty, we learned so much about Southern hospitality.",
   },
 ];
 
