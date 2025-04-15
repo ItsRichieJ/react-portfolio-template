@@ -2,8 +2,8 @@
 
 :root {
   /* Light mode colors */
-  --primary-color: hsl(197, 98%, 80%);
-  --secondary-color: hsl(14, 100%, 93%);
+  --primary-color: hsl(197, 72%, 42%);
+  --secondary-color: hsl(0, 0%, 100%);
   --text-color: hsl(0, 0%, 0%);
   --accent-color: hsla(27, 94%, 87%, 0.529);
   --nav-background: hsl(197, 98%, 80%, 0.7);
