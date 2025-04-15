@@ -41,10 +41,10 @@ const activities: ActivityProps[] = [
       <>
         <p>
           Pet sitting was first a method to fund my 9 year-old self's want for Star Wars Legos. 
-          I also could not stand leaving my own pet at home, all alone, in the dark. So I sought out to provide a <strong>solution</strong> for pets that have traveling parents.
+          I also could no stanad leaving pets alone at home. So I sought out to provide a <strong>solution</strong> for pets that have traveling parents.
         <p>
           Throughout the years, I've taken care of over 50 breeds of dogs and met wonderful parents.
-          The corgi in my arms, I've known "Pillow" since she was 8 months old, she's now nine and has spent over half her life at my house; we are great friends with her owners.</p>
+          The corgi in my arms, "Pillow",  I've known since she was 8 months old, she's now nine and has spent over half her life at my house.</p>
         </p>
         <p>
           In the end, I was able to buy my Star Wars Legos, and even my first car!
@@ -67,6 +67,7 @@ const activities: ActivityProps[] = [
       <>
         <p>
           Sports have been a key part of my life: golf, tennis, swimming, Brazillian Jiu-Jitsu, and anything I have yet to try.
+          I'm a huge fan of the ourdoors.
         </p>
         <p>
           Keeping in shape and working out is a huge part of my life too, I love seeing the pump indicating what I'd look like in the near future, and reminding me of my goals.
@@ -87,9 +88,10 @@ const activities: ActivityProps[] = [
       <>
         <p>
           Cooking has been instilled in me since I was 4, starting with French toast and now ribeyes and dumplings.
+          Making, and not eating, sweets for others, brings me joy.
         </p>
         <p>
-          It's been a passion from my mother helped me develope, I thank her by cooking her dinner.
+          It's been a passion my mother helped me develope, I thank her by cooking her dinner.
         </p>
       </>
     ),
