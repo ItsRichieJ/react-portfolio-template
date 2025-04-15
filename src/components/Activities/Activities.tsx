@@ -53,8 +53,8 @@ const activities: ActivityProps[] = [
     ),
     quicklinks: [
       {
-        href: "https://www.bu.edu/fitrec/what-we-offer/outdoor-programs/rock-climbing/",
-        name: "Fitrec Climbing Wall",
+        href: "",
+        name: "",
       },
     ],
   },
